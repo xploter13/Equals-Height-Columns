@@ -1,7 +1,10 @@
+# Note
+
+Tested only with bootstrap 4
+
 # Equals-Height-Columns
 
-The code equals the height of the bootstrap 4 columns only with flex css.
-Note: tested only with bootstrap 4
+The code equals the height of the bootstrap columns only with flex css.
 
 # How to use
 
