@@ -1,0 +1,18 @@
+/*!
+ * Equal Heigh Columns - https://www.simonautobody.com
+ * Author: Fernando Venturelli
+ *
+ * Bootstrap 4 Supported
+ * Copyright (c) 2018
+ *
+ */
+
+.equals-height-columns {
+    display: flex;
+    width: 100%;
+}
+
+.equals {
+    flex: 1;
+    /*padding: 16px;*/
+}
